@@ -1,4 +1,4 @@
 # RegLingDivCan
 Regional Linguistic Diversity in Canada
 
-This repository contains the data used in the analysis described in the paper “Measuring linguistic diversity in Canada, 1991-2021 - A panel data analysis on provinces and territories” and the code for the panel analysis.
+This repository contains the data and the code used in and for the analysis described in the paper “Measuring linguistic diversity in Canada, 1991-2021 - A panel data analysis on provinces and territories”.
